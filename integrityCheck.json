@@ -1,0 +1,1 @@
+{"status":"failure","message":"One or more files failed signature validation","files":[{"filename":"Login.php","status":"Hash Mismatch","expectedhash":"e51b7db527ebbce9b6f652dc83bb9f779ed3d497","actualhash":"9ba2a493f6a84fb2610073988bf74ccde707f8ff"}]}
